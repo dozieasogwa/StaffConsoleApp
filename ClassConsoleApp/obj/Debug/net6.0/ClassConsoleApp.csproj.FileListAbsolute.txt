@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\WinFormDemo\WinformCode\WInformSample\DecaBankMain\ClassConsoleApp\ClassConsoleApp\bin\Debug\net6.0\ClassConsoleApp.exe
+C:\Users\Administrator\source\repos\WinFormDemo\WinformCode\WInformSample\DecaBankMain\ClassConsoleApp\ClassConsoleApp\bin\Debug\net6.0\ClassConsoleApp.deps.json
+C:\Users\Administrator\source\repos\WinFormDemo\WinformCode\WInformSample\DecaBankMain\ClassConsoleApp\ClassConsoleApp\bin\Debug\net6.0\ClassConsoleApp.runtimeconfig.json
+C:\Users\Administrator\source\repos\WinFormDemo\WinformCode\WInformSample\DecaBankMain\ClassConsoleApp\ClassConsoleApp\bin\Debug\net6.0\ClassConsoleApp.dll
+C:\Users\Administrator\source\repos\WinFormDemo\WinformCode\WInformSample\DecaBankMain\ClassConsoleApp\ClassConsoleApp\bin\Debug\net6.0\ClassConsoleApp.pdb
+C:\Users\Administrator\source\repos\WinFormDemo\WinformCode\WInformSample\DecaBankMain\ClassConsoleApp\ClassConsoleApp\obj\Debug\net6.0\ClassConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\WinFormDemo\WinformCode\WInformSample\DecaBankMain\ClassConsoleApp\ClassConsoleApp\obj\Debug\net6.0\ClassConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\WinFormDemo\WinformCode\WInformSample\DecaBankMain\ClassConsoleApp\ClassConsoleApp\obj\Debug\net6.0\ClassConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\WinFormDemo\WinformCode\WInformSample\DecaBankMain\ClassConsoleApp\ClassConsoleApp\obj\Debug\net6.0\ClassConsoleApp.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\WinFormDemo\WinformCode\WInformSample\DecaBankMain\ClassConsoleApp\ClassConsoleApp\obj\Debug\net6.0\ClassConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WinFormDemo\WinformCode\WInformSample\DecaBankMain\ClassConsoleApp\ClassConsoleApp\obj\Debug\net6.0\ClassConsoleApp.dll
+C:\Users\Administrator\source\repos\WinFormDemo\WinformCode\WInformSample\DecaBankMain\ClassConsoleApp\ClassConsoleApp\obj\Debug\net6.0\refint\ClassConsoleApp.dll
+C:\Users\Administrator\source\repos\WinFormDemo\WinformCode\WInformSample\DecaBankMain\ClassConsoleApp\ClassConsoleApp\obj\Debug\net6.0\ClassConsoleApp.pdb
+C:\Users\Administrator\source\repos\WinFormDemo\WinformCode\WInformSample\DecaBankMain\ClassConsoleApp\ClassConsoleApp\obj\Debug\net6.0\ClassConsoleApp.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\WinFormDemo\WinformCode\WInformSample\DecaBankMain\ClassConsoleApp\ClassConsoleApp\obj\Debug\net6.0\ref\ClassConsoleApp.dll
